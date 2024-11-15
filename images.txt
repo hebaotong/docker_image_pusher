@@ -1,1 +1,1 @@
-williamyeh/java8
+mysql:8.0.31
